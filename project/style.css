@@ -1,0 +1,317 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    height: 50px;
+}
+
+main {
+  flex: auto;
+}
+
+footer {
+  z-index: 10;
+  text-align: center;
+  width: 100%;
+  background-color: #292b2c;
+  color: #e5e4e2;
+  height:20px;
+}
+
+.navbar-dropdown {
+  padding: 4px 4px;
+}
+
+#per_hour_wrapper {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  padding: 20px 10px;
+  background: rgba(0, 0, 0, 0.8);
+  background-size: cover;
+  border-radius: 8px;
+  z-index: 0;
+  display: none;
+  width: 50%;
+}
+
+#covid_visits_chart_checkbox {
+  margin-left: 5px;
+}
+
+#edit-profile {
+  margin-left: 10px;
+}
+
+#map {
+  position: relative;
+  z-index: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#navbar-header {
+  text-transform: uppercase;
+}
+
+#estimation-submit {
+  float: center;
+}
+
+.covid-panel {
+  color: #282828;
+}
+
+#covid-exposure-table {
+  color: #282828;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.welcome-msg{
+  font-size: 1.5em;
+  color: #e5e4e2;
+  padding-top: 10px;
+  padding-right: 10px;
+  font-family: arial;
+}
+
+.signup-link {
+  color: #e5e4e2;
+  font-family: arial;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  text-transform: uppercase;
+}
+
+.signup-link:hover {
+  color: #e5e4e2;
+  text-decoration: underline;
+}
+
+.form-header {
+  text-align: center;
+  font-size: 2em;
+}
+
+.form-button {
+  background-color: #02072F;
+  color: #e5e4e2;
+  opacity: 80%;
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-top: 30px;
+  padding-top: 10px;
+}
+
+.choice:hover {
+  background-color: #D3D3D3;
+}
+
+.suggestions {
+  position: relative;
+  margin-bottom: 0;
+  z-index: 10;
+}
+
+#suggestions {
+  position: relative;
+  margin-bottom: 0;
+  z-index: 10;
+}
+
+#admin-page {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex:auto;
+}
+
+.admin-form-wrapper {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px 15px;
+  background: rgba(0, 0, 0, 0.8);
+  background-size: cover;
+  border-radius: 8px;
+  max-height: 50%;
+}
+
+.wrapper, .ranking-wrapper {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  padding: 40px 30px;
+  background: rgba(0, 0, 0, 0.5);
+  background-size: cover;
+  border-radius: 8px;
+}
+
+.chart-checkbox {
+  color: #282828;
+}
+
+.ranking-wrapper {
+  left: 50%;
+}
+
+.profile-info-wrapper {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  padding: 40px 30px;
+  background: rgba(0, 0, 0, 0.5);
+  background-size: cover;
+  border-radius: 8px;
+}
+
+#per_day_select_wrapper {
+  top: 10%;
+  left: 65%;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+#per_hour_select_wrapper {
+  top: 25%;
+  left: 65%;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.consent-wrapper, .covid-wrapper {
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  padding: 40px 30px;
+  background: rgba(0, 0, 0, 0.8);
+  background-size: cover;
+  border-radius: 8px;
+}
+
+#consent-check {
+  margin-right: 7px;
+}
+
+.statistics {
+  color: #282828;
+}
+
+.consent-text {
+  font-size: 1.2em;
+}
+
+.covid-wrapper {
+  left: 55%;
+}
+
+.profile-title {
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+.profile-history-tab {
+  color: #e5e4e2;
+  font-size: 1.3em;
+}
+
+.login, .logout button {
+  text-transform: uppercase;
+}
+
+#profile-btn {
+  text-transform: uppercase;
+  margin: 8px 5px;
+  padding-left: 8px;
+}
+
+.activeTab:focus, .activeTab:hover, .activeTab:active, .activeTab {
+  background-color: #f1f1f1;
+
+  outline: none;
+  box-shadow: 0.5px 0.5px 0.5px 0.5px #000065;
+}
+
+.activeTab_content {
+  display: block;
+  color: #282828;
+}
+
+.inactiveTab_content {
+  display: none;
+}
+
+.inactiveTab:focus, .inactiveTab:hover, .inactiveTab {
+  color: #e5e4e2;
+  background-color: #4e7496;
+}
+
+.seemore {
+  margin: 5px 5px;
+}
+
+.navbar-brand {
+  padding-top: 0px;
+}
+
+.logo {
+  padding: 0px 0px;
+  width: 50px;
+}
+
+.web-form {
+  color: #e5e4e2;
+  font-family: arial;
+  position: relative;
+  margin: 0 0;
+  flex: auto;
+  display: flex;
+}
+
+#per_day_wrapper {
+  display: none;
+  width: 50%;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  padding: 20px 10px;
+  background: rgba(0, 0, 0, 0.8);
+  background-size: cover;
+  border-radius: 8px;
+  z-index: 0;
+}
+
+.signup-alert {
+  margin-top: 10px;
+}
+
+.bgd {
+  z-index: -10;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 90%;
+}
+
+.jumbotron {
+  margin-top: 150px;
+  opacity: 80%;
+}
+
+.login-alert {
+  opacity: 50%;
+}

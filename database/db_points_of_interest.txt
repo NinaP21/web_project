@@ -1,0 +1,162 @@
+id	name	address	coordinates_lat	coordinates_lng	rating	rating_n	current_popularity	
+ChIJ-f8_0B82XhMRGO3574T-GbY	Happytails	Ionias 23, Patra	38.23720470	21.73994680	4.6000	69.0000	0
+ChIJ-TKYmx02XhMRhtJ7X9WTjPI	Eurobank	Kalavriton 32, Patra	38.23566260	21.74606540	3.3000	23.0000	73
+ChIJ04Xm-h02XhMRovY8-bw3Cpg	Building Cleaning - ESTIA	Fokeas 49, Patra	38.23640330	21.74417210	4.6000	25.0000	0
+ChIJ0a4YHeBJXhMRgESyORq9JSo	DERMATOLOGOS GIANNAKOPOULOS Patras KOSTAS	Voulgareos 27, Patra	38.23817850	21.73845210	2.3000	9.0000	0
+ChIJ0RiAPOJJXhMR9e-rNN13X9o	Moto Shop Sotirios Andreou	Dimitriou Gounari 229, Patra	38.23844090	21.74464940	4.6000	51.0000	0
+ChIJ0We6ISc2XhMR0JstwP2xC6s	CHEINOPOROS PANAGIOTIS	Charilaou Trikoupi 17, Patra	38.23731180	21.73029050	5.0000	4.0000	0
+ChIJ0xg-_4BJXhMRADzrgzcpuh4	ΖΕΛΕΚΤ ΑΕ	Kalavriton 2, Patra	38.23778840	21.74519850	4.4000	115.0000	0
+ChIJ0YP89yw3XhMRu0_gcptybS4	GroupTime Fitness	Akti Dimeon 35, Patra	38.23380520	21.72514200	5.0000	92.0000	0
+ChIJ17ejkhk2XhMRPsEejntj8Mc	Kafekouti	Kalavriton 23, Patra	38.23656680	21.74603630	4.3000	213.0000	0
+ChIJ1f_1SOJJXhMRgrZ3x59ZKNw	Coffeebrands	3ou Oreivatikoy 10, Patra	38.23871010	21.74525740	4.3000	82.0000	0
+ChIJ24KnIg83XhMRX_b9V6y7PKE	Chrysanthakopoulos - Idiotropo	Korinthou 451, Patra	38.23887730	21.72850790	4.5000	11.0000	37
+ChIJ34_kIOBJXhMR7imf2tRjF3o	Hardwarestore.gr Χρωματοπωλείο Κωνσταντέλλος	Voulgareos 42, Patra	38.23800540	21.73935000	4.9000	8.0000	0
+ChIJ3WNjGMpJXhMRP2_Mlwzs7Ag	C'est Cafe	Kalavriton 10, Patra	38.23720380	21.74537410	4.8000	29.0000	0
+ChIJ4bvbRlU3XhMRizrDqc9I6fU	Flocafe	Akti Dimeon 17, Patra	38.23768270	21.72593590	4.1000	246.0000	0
+ChIJ4e-5v05JXhMRDZp4UgNSSqg	Black Fox	Maizonos 30, Patra	38.24994040	21.73914030	5.0000	50.0000	0
+ChIJ5-bc-wc3XhMRtRMtoIpDJDw	Paris house 1	Selefkias 11, Patra	38.22971660	21.73021910	4.0000	1.0000	0
+ChIJ53SyUV83XhMRKCtMj0KPkBI	Nafsika's hair salon	Nikaias 139, Patra	38.23449580	21.74520540	5.0000	50.0000	0
+ChIJ6-g47SM2XhMRoBC9mS6dkKE	Αχαϊκό Εντελβάις	Eleftheriou Venizelou 69, Patra	38.23296200	21.73250200	4.4000	209.0000	0
+ChIJ71wmUS82XhMRKso4jVV3SaI	Coffeebox Str	Akti Dimeon 27, Patra	38.23497550	21.72532380	4.3000	124.0000	0
+ChIJ7f_lJyY2XhMRnOqNQJfMj3g	Goody's Burger House	Akti Dimeon 17, Patra	38.23797670	21.72599160	4.2000	546.0000	23
+ChIJ7SdGoCg2XhMRGcnVpa4dU0g	Petite Boutique	Akti Dimeon 18, Patra	38.23679100	21.72591390	4.4000	413.0000	0
+ChIJ88kULCM2XhMRXqQTjKQz9-s	La Taste Ζαχαροπλαστείο	Agiou Ioanni Pratsika 71, Patra	38.22906110	21.73435070	4.6000	103.0000	0
+ChIJ8e14Y_k3XhMRwkBFeA4sA44	Πλατεία Ελευθερίας (Μικράς Ασίας)	Patras	38.23580260	21.74194030	3.7000	125.0000	21
+ChIJ8Uhwphk2XhMR0eyLMUIgSEk	Piraeus Bank	Γ. Παπανδρέου, & Ιωνίας 104, Patra	38.22964950	21.74127410	2.3000	23.0000	62
+ChIJ8YFRQhs3XhMRSTMUbYu6zCw	Pet Beauty G.S.	Βορείου Ηπείρου 170 και, Maizonos, Patra	38.23346750	21.72679020	4.2000	34.0000	0
+ChIJ8yJ6relJXhMRo2XqEv0keZU	SUPERMARKET "3A ARAPIS"	Maizonos 22-24, Patra	38.25060850	21.73989560	4.2000	232.0000	29
+ChIJa4Go5yc2XhMR-30hKzhbx_c	My market	12, Akti Dimeon 14, Patra	38.23926730	21.72626530	4.5000	504.0000	57
+ChIJA8EOiMk3XhMRfLK_6kRsJS4	ΕΙΔΙΚΗ ΘΕΡΑΠΕΥΤΙΚΗ ΠΑΡΕΜΒΑΣΗ - Λογοθεραπεία, Λογοθεραπευτές Πάτρα - Σακκογιάννη Ράνια	Kalavriton 24-26, Patra	38.23630180	21.74585760	5.0000	10.0000	0
+ChIJA8XmnCc2XhMRoA2h45hqTg4	ComTech Systems Pc-Δίκτυα-Software-Service	Korinthou 358, Patra	38.23934340	21.72834890	4.9000	30.0000	0
+ChIJaczbf8JJXhMR9QcBFbdskRA	B.M.G. RENTACAR	Andrea Papandreou 1, Patra	38.25064700	21.73728400	1.0000	1.0000	0
+ChIJaeHBPuBJXhMRuNbzVocLWWA	Kokkonis Bros O.E.	Mpoukaouri 158, Patra	38.23813170	21.73956290	4.7000	198.0000	59
+ChIJaSelXrpJXhMRn8muKjS7tz8	Γιαννης Χριστοπουλος ΚΡΕΟΠΩΛΕΙΟ	Dimitriou Gounari 212, Patra	38.23877550	21.74367220	5.0000	3.0000	0
+ChIJaVrgkCU2XhMRvIk-RC18hoM	Αρτο...Ποίηση	Maizonos 348, Patra	38.23334670	21.72667020	4.7000	65.0000	0
+ChIJAVs4m443XhMRBbxmCCI6f5Y	εν σωματι	Ελευθερίου Βενιζέλου 59 &, Delvinou, Patra	38.23269750	21.73079160	4.8000	6.0000	0
+ChIJB0BpiiM2XhMR0j9vb-iKkoc	Play Opap Ε. Βενιζέλου 65	Eleftheriou Venizelou 65, Patra	38.23284700	21.73173120	4.0000	39.0000	0
+ChIJb6ZtRxw2XhMR3wPLklk4dic	elastika falieris TROXOEXPRESS	Leoforos Georgiou Papandreou 60, Patra	38.23303850	21.74475700	4.9000	66.0000	0
+ChIJB9uOmYM3XhMRcG8fh_Xmz7o	Car wash elefante	Solomous 86, Patra	38.23481720	21.72989840	4.1000	17.0000	0
+ChIJbaPLFeJJXhMRYPqDu15HzSs	Kotsokolos Konstantinos	Karatza 116, Patra	38.23785720	21.74476930	4.6000	87.0000	0
+ChIJbzH1X0E3XhMRIZIsCrlLqgY	Το Φωτεινό Αστέρι	Themistokleous 116, Patra	38.23317560	21.72813920	4.7000	27.0000	0
+ChIJCdQRw0Y3XhMRHeQx2bwPEAw	Καφέ "Πνύκα"	Michail Psellou 5, Patra	38.23327360	21.73387620	4.4000	21.0000	0
+ChIJCw-wuz5JXhMRd2DwyJ14sxg	Períptero	3ou Oreivatikoy 48, Patra	38.24014700	21.74543290	5.0000	1.0000	0
+ChIJD12aA_c3XhMR3g61s7cKpQc	Πασαγιάννης Όμηρος	Kontogouri 10, Patra	38.23132940	21.73155130	4.8000	4.0000	0
+ChIJDU4ldCU2XhMRhYQRDJHqYB8	Carspa	Parnassou 17, Patra	38.23258020	21.72719520	4.6000	10.0000	0
+ChIJdz60KyA2XhMRiCVdmLDxyx8	Φαρμακείο Δήμητρας Κοτσιρίλου & ΣΙΑ Ο.Ε.	Αγίας Τριάδος 52 & Βορείου Ηπείρου 3, Patra	38.23595220	21.73741260	5.0000	6.0000	0
+ChIJD_GT-iQ2XhMRbFWExhIn4sI	butcher Cacoyannis	Solomous 148, Patra	38.23173360	21.72934620	5.0000	30.0000	0
+ChIJE5rqhOFJXhMREi7B5EA45Dw	Tip Top	Dimitriou Gounari 223, Patra	38.23851560	21.74445520	4.6000	102.0000	0
+ChIJeRBLIEo3XhMRJQF6V6sC6MI	Πλυντήριο αυτοκινήτων (self service)	Ionias 133, Patra	38.23001790	21.74071320	5.0000	5.0000	0
+ChIJESBMBBk2XhMRi2SbsZ_zvMU	WODBOX	Leoforos Georgiou Papandreou 91, Patra	38.23073200	21.74280500	4.8000	25.0000	0
+ChIJeT2kxTo2XhMRCntpyoHXt2A	ΚΟΥΝΑΒΗΣ ΑΝΔΡΕΑΣ	Salaminos 30, Patra	38.22938270	21.72743800	4.2000	11.0000	0
+ChIJeWquqyE2XhMRLB_819PA_b0	Sotiris Koulis Family	Archiepiskopou Ierotheou 105, Patra	38.23707060	21.73457960	5.0000	1.0000	0
+ChIJEzGdRic2XhMRYTCEu8QXinw	ΑΡΤΟΓΕΥΣΕΙΣ ΑΝΔΡΙΚΟΠΟΥΛΟΣ ΧΑΡ. & ΣΙΑ Ο.Ε.	Solomous 30, Patra	38.23877050	21.73062170	4.5000	60.0000	0
+ChIJF-Rg6dI3XhMRMNxaFTBLchg	Coffee stay	Charilaou Trikoupi 17, Patra	38.23731180	21.73029050	5.0000	3.0000	0
+ChIJf0kcnSc2XhMRu-Lg9p3PZjI	Music Power ΠΕΛΕΚΟΥΔΑΣ Β.	Korinthou 443, Patra	38.23918790	21.72857650	4.9000	24.0000	0
+ChIJf1c-xyU2XhMRQaIzEdB_B7k	www.abbyspaws.gr	Themistokleous 56, Patra	38.23735180	21.73039090	5.0000	1.0000	0
+ChIJFaU1TBw2XhMRq87NWxs61hA	Μυλωνάς Ζαχαροπλαστείο	Leoforos Georgiou Papandreou 44, Patra	38.23405150	21.74570640	4.4000	107.0000	0
+ChIJfdC04No3XhMR8JrkZLvazh4	AlfaEstiasi	Selefkias 14, Patra	38.22946010	21.73060080	5.0000	3.0000	0
+ChIJFUgUqwY3XhMR_pCBkFi8rdI	Μπαρμπέρικο - Barber Shop	Agias Triados 20, Patra	38.23728700	21.73677600	5.0000	57.0000	0
+ChIJFxIYOehJXhMRTnfIBMK7Cjw	eCig Hellas Ηλεκτρονικο Τσιγαρο - Πάτρα	Maizonos 47, Patra	38.24966320	21.73905090	4.9000	208.0000	0
+ChIJG5AcGCY2XhMRmpnpUDVG6Lc	Our Great Circus	Archiepiskopou Kirillou 14, Patra	38.23651510	21.72643120	4.6000	583.0000	36
+ChIJg67Oa4g3XhMRfLQlSnNC9hg	Σαπουναρία Πάτρας (S.P)	Πόντου κ, Efesou 47, Patra	38.23532500	21.74101500	4.8000	4.0000	0
+ChIJGfuRsONJXhMRQ-9vUU0WSjI	KARELIS KONSTANTINOS	Paleon Patron Germanou 179, Patra	38.24018510	21.74514250	5.0000	2.0000	0
+ChIJgwBl6SU2XhMRMjbygjBSboQ	Patras Moto Technology	Dimitriou Maximou 8, Patra	38.23433770	21.72592510	4.9000	105.0000	0
+ChIJGYPtKyY2XhMRDq5n0hrb108	Media Markt Πάτρα	Akti Dimeon 17, Patra	38.23773600	21.72625250	4.1000	1257.0000	46
+ChIJGyYZay82XhMRYIH_uvIjIH8	Patras' South Park - Notio Parko Patras	Akti Dimeon 28, Patra	38.23485300	21.72439630	4.5000	2085.0000	6
+ChIJh003YSY2XhMRXA3c9sHdMAw	GMC-SHOP_Super Market Θεοδωρόπουλος	Archiepiskopou Ierotheou 51, Patra	38.23601300	21.72834560	4.6000	58.0000	0
+ChIJH1FcPxw2XhMRzjMDiIppoZg	Max Perry	Leoforos Georgiou Papandreou 59, Patra	38.23319480	21.74511200	4.3000	155.0000	9
+ChIJH2IPqSU2XhMRx52dM-Uwiwc	Σκλαβενίτης	Parnassou 16, Patra	38.23267490	21.72816260	4.5000	725.0000	63
+ChIJHf2oKOhJXhMRU48jxmo1y6s	Zolotas S.A.	Riga Fereou 32, Patra	38.25010920	21.73789170	4.3000	75.0000	0
+ChIJhT1xJuhJXhMRB_dOMAB9G8A	Κατσαρόλα της Τούλας	Riga Fereou 49, Patra	38.24998220	21.73796140	4.6000	554.0000	6
+ChIJhTC7IiA2XhMRDXXA5keTbkU	The Juice Bar	Smirnis 110, Patra	38.23704360	21.73692060	4.4000	139.0000	0
+ChIJhVyNxiU2XhMR-047iPt8FPY	Δ.ΕΠΙΣΚΕΥΑΣΤΙΚΗ	Korinthou 426-430, Patra	38.23407700	21.72760500	4.7000	7.0000	0
+ChIJHz0GwiY2XhMRl8CM130I0qw	CyberArena Internet Cafe	Solomous 72-76, Patra	38.23618530	21.73011810	4.7000	124.0000	60
+ChIJizF4o5o3XhMRYFqw0tvXBHM	Ο ΛΕΩΝΙΔΑΣ & ΟΙ 300	Fanariou 73, Patra	38.23319360	21.74315690	4.6000	5.0000	0
+ChIJj56MreNJXhMRWAsKa0J8W4k	Δακόλα Αγγελική Α	Paleon Patron Germanou 183-193, Patra	38.23973900	21.74581830	4.9000	25.0000	0
+ChIJJU-orzo2XhMRWpzclnuGfzw	Φραγκάκης ΟΕ	Souniou 119, Patra	38.22990340	21.72620480	5.0000	7.0000	0
+ChIJJXZNNjtJXhMR_2Oug8KxoHw	Παραδοσιακό Οπωροπαντοπωλείο	6 συντάγματος 2, Πάτρα	38.24017690	21.74560620	4.9000	16.0000	0
+ChIJk0zmsB82XhMRaUVxT1MhpGY	Gitsis Konstantinos	Ionias 54, Patra	38.23592710	21.73995510	4.3000	99.0000	0
+ChIJK2mtFN9JXhMRQgGlzRIXc6k	Vasiliki Andrikopoulou	Mesologgiou 11, Patra	38.24027300	21.73347590	5.0000	35.0000	0
+ChIJkRhinSg2XhMRipOQ12_hPzI	Libido	Akti Dimeon 17, Patra	38.23771230	21.72594150	4.5000	569.0000	0
+ChIJKT-X7SA2XhMR2dSVr5pougg	Arapis Market "3A Arapis" Ltd	Panachaikou 65, Patra	38.23741400	21.73387700	4.2000	91.0000	0
+ChIJKy7R3SY2XhMReaxikN_Jbb0	NIKOLOPOULOS PANAGIOTIS "TO PARADOSIAKO PSOMI"	Solomous 75, Patra	38.23676940	21.73031940	3.0000	2.0000	0
+ChIJl4E8Nd1JXhMRIItSjXdfOXo	Φροντιστήριο Φάσμα	Ελευθερίου Βενιζέλου και Γεωργιου Παπανδρέου ,Πάτρα 262 21, Patra	38.22967260	21.74118520	5.0000	6.0000	0
+ChIJLbeqKhk2XhMRKRTbz6Mkha4	ΓΑΣΠΑΡΙΝΑΤΟΥ ΠΑΥΛΙΝΑ ΘΕΟΦΑΝΗΣ	Ionias 103, Patra	38.23256370	21.74072280	5.0000	21.0000	0
+ChIJlQV3HyY2XhMRpjjYBlws0d4	RAPTI Boutri Vasiliki Zakinthinos Xristos Accounting Tax office	Archiepiskopou Kirillou 2, Patra	38.23655480	21.72593750	4.4000	7.0000	0
+ChIJlQzUWic2XhMRRj2o3g9QiWw	Αχαϊκή Διαχειριστική (Επαγγ. Καθαρισμοί)	Solomou 24, Patra	38.23887600	21.73066700	4.1000	20.0000	0
+ChIJLWNTMuhJXhMRc0uCYczaWys	Bocas	Riga Fereou 39, Patra	38.25042600	21.73854060	4.6000	403.0000	14
+ChIJMQP6EbU3XhMRBtsPNWT_DiQ	liberis ψωμι-καφες-γλυκο	Alexandrou Papanastasiou 16, Patra	38.23034430	21.72798040	4.5000	24.0000	0
+ChIJMSeG8hk2XhMRRhwsF8fhP3Y	The Bright Star	Themistokleous 116, Patra	38.23317560	21.72813920	4.7000	27.0000	0
+ChIJmxF_PCc2XhMRJpnrz44FtbU	Ανδρικόπουλος Super Market	Solomous 53, Patra	38.23787850	21.73054190	4.4000	107.0000	0
+ChIJmzSR7SA2XhMRpWcgvrhnQEY	ΣΥΜΕΩΝΙΔΗΣ ΠΕΡΙΚΛΗΣ	Smirnis 72, Patra	38.23747420	21.73382210	5.0000	32.0000	0
+ChIJn65BbOJJXhMRRvBmSjqKNX0	Zelekt S.A.	Kalavriton 2, Patra	38.23776830	21.74522530	4.4000	115.0000	0
+ChIJNce1WSQ2XhMRCxdWbKOr_8M	Cafe Ανδρέας	Solomous 140, Patra	38.23240110	21.72952040	3.2000	18.0000	0
+ChIJNQv7Pxw2XhMReRJTJFtt4xc	Et Cafe	Leoforos Georgiou Papandreou 59A, Patra	38.23302000	21.74503440	4.5000	167.0000	0
+ChIJnyLA8iM2XhMR2MQ82SsQXww	Micromed Διαγνωστικά	Eleftheriou Venizelou 67, Patra	38.23302420	21.73230190	4.8000	4.0000	0
+ChIJn_SgKe03XhMRvsbE3xFr8Ao	Συνεργείο Αυτοκινήτων παντός τύπου Κατσικάκης Νικόλας	Pindou 3, Patra	38.23078000	21.74345690	5.0000	13.0000	0
+ChIJOeK7WuhJXhMRp1dmjE1OOmo	ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ ΙΩΑΝΝΗΣ	Korinthou 156, Patra	38.24964900	21.73991940	4.5000	43.0000	0
+ChIJOfXygiQ2XhMRZmdy1DIIEg4	"Η Καλή" Καρβελά Καλιρρόη	Σολωμού κ Δελφων 32Πάτρα, Patra	38.23150320	21.72964070	4.7000	43.0000	0
+ChIJowSURxM3XhMRmbAxgMezpuk	Areti Textile	Ionias 39, Patra	38.23643950	21.74003840	5.0000	3.0000	0
+ChIJOztsXBk2XhMRIu0EEdF27js	PHARMACY Damvounelis G. Kon / nos	Leoforos Georgiou Papandreou 85, Patra	38.23105360	21.74314520	5.0000	3.0000	0
+ChIJoZu2ICE2XhMRaYhwPdvHLkY	Axizei	Mesologgiou 69, Patra	38.23651350	21.73285940	4.8000	4.0000	0
+ChIJP-URlSY2XhMRXXseyEczfzI	MY COFFEE	Solomous 82Α, Patra	38.23578480	21.73004550	4.6000	62.0000	0
+ChIJP1bzTS82XhMRKDyRa4_p-j4	Κολυμβητήριο ΝΟΠ (Nautical Club of Patras)	Akti Dimeon, Patra	38.23900310	21.72490760	4.4000	314.0000	1
+ChIJpxBoqb43XhMRPoXjQGIk2C0	Edgy Cuts	Archiepiskopou Ierotheou 89, Patra	38.23665990	21.73331790	5.0000	24.0000	0
+ChIJpYe_5iM2XhMRxwCviSFImLA	ΝΤΟΥΒΑΣ ΑΘΑΝΑΣΙΟΣ	Voriou Ipirou 73, Patra	38.23371100	21.73286620	4.7000	17.0000	0
+ChIJq8ifLjQ3XhMRwe_o9v8rl_M	Kōnstantínos	Platia Voriou Ipirou 102, Patra	38.23373320	21.73138920	5.0000	10.0000	0
+ChIJqXfObCc2XhMRnI9QBuMheio	Abige Hair&Style	Kapodistriou 28, Patra	38.23851090	21.72966090	4.9000	51.0000	0
+ChIJqXT_xCU2XhMRc5ulGeOpCoc	Coffee Island	Κορίνθου &, Dimitriou Maximou 22, Patra	38.23414890	21.72794440	4.7000	177.0000	0
+ChIJQZbR3xQ3XhMRyaR2SBYu29I	Excellent Car Wash	Dimitriou Maximou 22, Patra	38.23432740	21.72811530	4.4000	7.0000	0
+ChIJR56ibOhJXhMRc3gu6QZZ8ek	Μπουκέτο Μπαλόνια	Korinthou, Patra	38.23573050	21.72785940	4.4000	34.0000	0
+ChIJRb9uAz43XhMRexZ2BgsH0cs	Paris house 2	Selefkias 11, Patra	38.22971660	21.73021910	3.5000	2.0000	0
+ChIJRbfvEiY2XhMRy1BekwIyAC4	Subaru Service - Παπανδρέου Παναγιώτης	Maizonos 313, Patra	38.23596210	21.72705140	4.8000	75.0000	0
+ChIJReMkcU03XhMRHtlq-RGG_Mc	Καφεκοπτείο Μεξικάνος	Korinthou 453, Patra	38.23860620	21.72843740	4.7000	110.0000	0
+ChIJs13fMVdJXhMRdfoTBribjjc	Moccup	Dimitriou Gounari 195, Patra	38.23973550	21.74231750	4.7000	17.0000	0
+ChIJs26l3KI3XhMR7NBzdimtWlc	Σκλαβενιτης	Ιωνίας 90 &, Damonos, Patra	38.23483490	21.74014930	4.5000	66.0000	98
+ChIJS8X0pWY3XhMRzrGX7803y-8	Coffee Lab ΠΑΠΑΝΔΡΕΟΥ 49 ΠΑΤΡΑ	Leoforos Georgiou Papandreou 49, Patra	38.23388460	21.74586340	4.6000	28.0000	0
+ChIJSap7relJXhMRUkopSQsXwuI	spelectronics.gr - ΗΛΕΚΤΡΟΝΙΚΑ ΗΛΕΚΤΡΟΛΟΓΙΚΑ ΠΑΤΡΑΣ	Satovriandou 43-47, Patra	38.25016700	21.73982400	4.8000	59.0000	0
+ChIJsTB4eiQ2XhMRYHsB0svbUhI	AutoSport	Eleftheriou Venizelou 42-46, Patra	38.23253650	21.73113910	4.7000	87.0000	0
+ChIJsVkvueNJXhMRB3fJo2F0Eg8	Καφε Φιλικων	Paleon Patron Germanou 161-163, Patra	38.24014040	21.74528340	4.6000	51.0000	0
+ChIJSWbYERM3XhMRX5qduCDaczY	ΦΙΛΙΠΠΟΣ ΑΛΕΥΡΑ-ΜΠΑΧΑΡΙΚΑ-ΖΩΟΤΡΟΦΕΣ	Ionias 114, Patra	38.23397310	21.74022370	4.6000	35.0000	0
+ChIJSxcz2FI2XhMRkB05AbcRmlI	ΝΑΥΤΙΚΟΣ ΟΜΙΛΟΣ ΠΑΤΡΩΝ	Akti Dimeon 151, Patra	38.23881740	21.72517310	4.7000	13.0000	0
+ChIJt-jvWxk2XhMRmqTBLN1y4Fg	Coffee Amargo	Leoforos Georgiou Papandreou 51, Patra	38.23357200	21.74554520	4.6000	51.0000	0
+ChIJt7LpHPs3XhMRn1RE73k4Bbs	Παραδοσιακό Παντοπωλείο Στασινόπουλος	Korinthou 370-374, Patra	38.23821140	21.72819360	4.6000	14.0000	0
+ChIJTyCVWvA3XhMRnNgdFRaTWE8	Κωτσόπουλος "Ευθυγραμισεις"	Dimitriou Maximou 6, Patra	38.23433560	21.72572510	4.9000	162.0000	47
+ChIJu-vWGU03XhMRQPtHWoqT688	Φούρνος Δημητρόπουλος	Skoufa 11, Patra	38.23240670	21.73049500	4.6000	11.0000	0
+ChIJU2cC_5A3XhMRTltBi0TpJVo	Opap play Γ. Παπανδρεου 49	Leoforos Georgiou Papandreou 49, Patra	38.23371990	21.74571070	3.7000	18.0000	0
+ChIJu8vyBuJJXhMRfm0zkEgJDWU	SPORTS HOUSE	Smirnis 250, Patra	38.23710730	21.74389120	4.6000	57.0000	0
+ChIJU9iH_p83XhMRvlOk16boN8k	Grill house πατρα	Voriou Ipirou 89, Patra	38.23340660	21.73127310	4.4000	33.0000	0
+ChIJU9lb5SQ2XhMRC-mT4k-qJ5I	DIVINE CAFE	Delfon 30, Patra	38.23157130	21.72939530	4.5000	24.0000	0
+ChIJUb5ZXC82XhMRXaOkeHvXc_Y	Lazaridis, J., Ltd	Akti Dimeon 35, Patra	38.23385900	21.72511250	4.9000	282.0000	0
+ChIJUf_lbyY2XhMRg9OS_Tm8jC4	auto giannakopoulos	Korinthou 483, Patra	38.23571010	21.72785750	4.4000	30.0000	0
+ChIJU_nWAOk3XhMRiIye0cMSMTE	Πέντε Δρόμοι	Agias Triados 20, Patra	38.23710550	21.73691310	0.0000	0.0000	0
+ChIJV-Z3PRw2XhMRP_npsTE0kOI	Kokois George	Dorileou 4, Patra	38.23372650	21.74548720	4.8000	25.0000	0
+ChIJv6i6xt9JXhMRVp9vNGd6MLY	Andrikópoulos	Nikita 60, Patra	38.24008060	21.73636600	4.5000	126.0000	0
+ChIJvdLwXS1JXhMRif9ab2ps-gA	Σαν όνειρο	Maizonos 29, Patra	38.25006040	21.73953990	5.0000	4.0000	0
+ChIJVeODuCE2XhMRcDFqFETdzdw	Theos, Lambros, & Co. O.E.	Voriou Ipirou 23, Patra	38.23503820	21.73594300	4.8000	36.0000	0
+ChIJVfLnrMVJXhMRkzUAT7CxG4U	Ζαχαροπλαστείο Γιώργος	Smirnis 231, Patra	38.23726350	21.74335850	4.6000	21.0000	0
+ChIJVQ35PeJJXhMRfqL9-SJiiv0	Marouda square	Karatza 114, Patra	38.23818830	21.74460460	3.9000	299.0000	42
+ChIJVzAMZC82XhMRbhndkrdgnck	Ena Cash And Carry	Akti Dimeon 28, Patra	38.23464260	21.72529190	4.2000	69.0000	0
+ChIJw1cp-C9JXhMR8v9XtGbMjCc	Mary Flogera Hairdressing Room	Georgiou Olimpiou 80, Patra	38.23879770	21.73463180	4.9000	12.0000	0
+ChIJw3Fe5Cc2XhMRHcQgQkfA6ok	House Art - Είδη Διακόσμησης - Αυτοκόλλητα, ταπετσαρίες, πίνακες & παραβάν	Ακτή Δυμαίων 10 & Ευμήλου, Georgiou Olimpiou, Patra	38.23977080	21.72661250	4.7000	604.0000	0
+ChIJW42MUT03XhMRGUH6OjHcTac	Didachos Bros - Auto	Dimitriou Maximou 54, Patra	38.23408060	21.72962910	4.9000	68.0000	0
+ChIJW666Vxk2XhMRo_D2yOU6YsY	Ευθυγραμμίσεις Μπαρδάκης	Leoforos Georgiou Papandreou 72, Patra	38.23162110	21.74342090	4.8000	167.0000	0
+ChIJw7aMQeJJXhMR4F6A4HR7Kio	Cooper Coffee & Snack	3ου ορειβατικού κ, Maragkopoulou, Patra	38.23815350	21.74537870	4.4000	415.0000	77
+ChIJwdFpF-JJXhMRFRwIQP7phY8	Ανδρικοπουλος Super Market	Karatza 114, Patra	38.23786920	21.74449740	4.3000	123.0000	0
+ChIJWQ__HeBJXhMRAKH10ZawcdQ	Nina Cafe Bar	Voulgareos 35, Patra	38.23806620	21.73919300	4.0000	1.0000	0
+ChIJWz0kmCU2XhMR4zd8MYHwoOQ	Σταματόπουλος Βασίλειος - Ο Γερμανός	Voriou Ipirou 139, Patra	38.23331170	21.72706170	4.9000	18.0000	0
+ChIJWzSxwiY2XhMR0MLasqi7eJs	Theodosiou	Solomous 68, Patra	38.23646750	21.73023420	4.3000	3.0000	0
+ChIJx3OiIMg3XhMRFJiKIFiuXjs	ΚΡΕΑΤΑ ΑΧΑΙΑΣ Μανίκας Βασίλειος	Μεσολογγίου, Kapodistriou 44, Patra	38.23831480	21.73123790	4.7000	6.0000	0
+ChIJXw7utONJXhMRtc156JXTs80	MILOS	3ou Oreivatikoy 24, Patra	38.23934230	21.74532430	4.5000	49.0000	0
+ChIJXXD-Nt1JXhMRWCTJyMxS_Xg	adidas Store Patra	Agiou Nikolaou &, Agiou Andreou 27, Patra	38.25045800	21.73729900	3.7000	26.0000	0
+ChIJxyaKVWlJXhMRKU0T1zcjjBo	nias hair art	Mesologgiou 19, Patra	38.23974840	21.73333010	4.3000	6.0000	0
+ChIJxZ_BF0lJXhMRgcQowKpjoQ8	Way Out Cafe	Ionias 1, Patra	38.23845540	21.73954090	4.9000	23.0000	0
+ChIJY4432yU2XhMR2jrWEN7aWls	Loukopoulou Georgia	Korinthou 418-420, Patra	38.23451390	21.72765740	4.4000	7.0000	0
+ChIJYdZBLCY2XhMRZRAQwVO1aEg	JUMBO	Akti Dimeon 17, Patra	38.23738820	21.72637410	4.1000	1960.0000	87
+ChIJYQIxGyE2XhMRupS59ERDUNc	Galaxias	Panachaikou 76, Patra	38.23607670	21.73376150	4.4000	248.0000	39
+ChIJyRizl0hJXhMRYIWm34jaikk	MAD PIGEON	Riga Fereou 40, Patra	38.24966900	21.73738730	5.0000	15.0000	0
+ChIJYW7ZL-hJXhMR9ve2dpMf5Io	Ελληνικά Ταχυδρομεία (ΕΛΤΑ)	Maizonos 32, Patra	38.24980440	21.73893910	1.5000	161.0000	60
+ChIJZSZOWxk2XhMRx_ZGHpVteCc	Κοσμοπουλος Θεοφάνης&Γεώργιος	Leoforos Georgiou Papandreou 80, Patra	38.23086280	21.74271490	4.5000	146.0000	0
+ChIJz_07-W03XhMRvRymy1Ccda0	KEEP THE CUP	Solomous 83, Patra	38.23624090	21.73033680	4.7000	60.0000	0
+ChIJ_7nx_mxJXhMRSrp68dDU67M	Coffee Lab	Maizonos 47, Patra	38.24966510	21.73905410	4.4000	51.0000	0
+ChIJ_cM58sE3XhMRCHVgkJkjUeQ	Σχολή Οδηγών - Δώρα Κ. Γιαννακοπούλου	Ionias 62, Patra	38.23620590	21.73993080	5.0000	7.0000	0
